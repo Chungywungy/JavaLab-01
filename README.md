@@ -16,4 +16,4 @@ A01443086
 Chungywungy
 
 ## HOW DID THE LAB GO:
-
+So far Java is like the long estranged sibling of C. 
